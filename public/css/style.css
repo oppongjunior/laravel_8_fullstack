@@ -1,0 +1,12 @@
+.brand-table-image{
+    height:50px;
+    width: 50px;
+}
+.sm-card-box{
+    border-right: 9px solid rgb(51, 90, 138);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
